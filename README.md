@@ -1,0 +1,2 @@
+# basics
+Standard pelzma
